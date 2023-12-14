@@ -19,7 +19,7 @@ as well as to demonstrate the basic functionality for the chat using modern user
 -	Graphical User interface (GUI): Graphical interface in the form of desktop application. 
 -	External libraries: Active use of external libraries.
   
-Usage
+## Usage
 To use the chat, follow these steps: 
 1.	Copy the repository on your local machine. 
 2.	Open the "Chat-app.sln" file in Visual Studio. 
