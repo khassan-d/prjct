@@ -52,7 +52,7 @@ Throughout the development of this project, a wealth of educational resources we
 - Networking and TCP/IP Sockets:
   
 1. [TCP/IP Socket Programming for Coders Using C# .NET](https://www.udemy.com/course/tcpip-socket-programming-for-coders-using-csharp-net/)
-    > This course provided in-depth knowledge on TCP/IP socket programming, crucial for implementing the reliable message exchange system in our chat application.
+    > This course provided in-depth knowledge on TCP/IP socket programming, crucial for implementing the reliable message exchange system in this chat application.
 
 2. [C# TCP/IP Sockets Tutorial](https://youtu.be/AXpTeiWtbC8?si=5K3BFHAnQxTu2-iu)
     > A YouTube tutorial that offered practical insights into creating a networked application in C#, which was instrumental in developing the client-server architecture.
@@ -60,10 +60,10 @@ Throughout the development of this project, a wealth of educational resources we
 - Windows Presentation Foundation (WPF) and MVVM:
   
 3. [WPF and MVVM Tutorials](https://www.youtube.com/playlist?list=PLrBlx8GuLtIFJHtOQl37b-kHNgk1FR3wk)
-    >A playlist of tutorials on YouTube that provided a comprehensive guide on WPF and the MVVM pattern, essential for designing and structuring the user interface of our application.
+    >A playlist of tutorials on YouTube that provided a comprehensive guide on WPF and the MVVM pattern, essential for designing and structuring the user interface of the chat.
 
 4. [WPF MVVM Step by Step](https://www.youtube.com/watch?v=V9DkvcT27WI&list=RDCMUCOoKt2u-bE1NuELXSFaEdUw&ab_channel=Payload)
-    >Provided practical steps for implementing the MVVM pattern in WPF, which was pivotal in developing the data binding and command logic of our application.
+    >Provided practical steps for implementing the MVVM pattern in WPF, which was pivotal in developing the data binding and command logic of this application.
 
 5. [Understanding WPF and MVVM for Chat Applications](https://youtu.be/kxhvwGEqvcs)
     >This video helped to create a user-friendly interface and to manage data and commands in a chat application effectively, aligning well with the development techniques used in the project.
